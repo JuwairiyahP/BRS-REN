@@ -11,4 +11,4 @@ Use external mouse for the solar system simulation, scroll
 for zooming in and out and right click on the entities
 to display the information
 
-Request author for images folder as size limits the uploading of the same
+Request author for images and audio files as size limits the uploading of the same.
