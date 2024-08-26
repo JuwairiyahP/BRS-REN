@@ -1,5 +1,5 @@
 The main program resides in final_brs.py. Run that file.
-
+For viewing code: refer py files branch.
 Modules used:
 1.URSINA
 2.PYGAME
